@@ -22,9 +22,7 @@ Python Training sponsored by DICT-Philippines.
    
    
 ## 🔥 With Aim to:
-<!--   >  - Improve my coding skill through out this course
-  >  - Have a basic understanding of Matplotlib
-  >  - Have a basic understanding of Seaborn -->
+  >  It gives developers flexibility and is a more accessible framework for new developers since I can build a web application quickly using only a single Python file. Flask is also extensible and doesn't force a particular directory structure or require complicated boilerplate code before getting started.
    
 ---
 
@@ -33,9 +31,26 @@ Python Training sponsored by DICT-Philippines.
   <summary>
   What is Web Apps
   </summary>
-<!--   <p align="center">
-  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/1.png" width=50% height=50%> -->
-
+  <p align="center">
+  <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/1.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/1_1.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/2.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/2_1.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/3.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/3_1.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/4.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/4_1.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/5.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/5_1.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/6.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/6_1.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/7.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/7_1.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/8.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/9.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/10.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/11.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/intro/11_1.png" width=50% height=50%>
 
   </details>
 
