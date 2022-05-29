@@ -1,0 +1,13 @@
+<!--For TEMPLATE INHERITANCE SAMPLE -->
+
+<!--use extend to extend file from layout to char html file-->
+{% extends "layout.html" %}
+<!--block for overriding specific parts of the template-->
+{% block content %}
+    {% for character in characters%}
+       <h1> {{ character.name }}</h1>
+       <p>Power : {{character.power}} </p>
+       <p>Weapon : {{character.weapon}}</p>
+       <p>Description : {{ character.description }}</p>
+    {% endfor %}
+{% endblock content %}
