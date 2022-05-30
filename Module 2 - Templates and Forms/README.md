@@ -23,6 +23,18 @@
  
 
 ---
+
+Before starting install flask in terminal
+<p> pip install flask </p>
+set the flask framework
+<p>set  FLASK_APP="file.py"</p>
+to run flask
+<p>flask run</p>
+
+for forms, install WTF
+<p>pip install Flask-WTF</p>
+ 
+---
 # 🛠️ Problem and Solution
 
  <details>
@@ -71,6 +83,12 @@ Form Practice
   <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20practice%20result%201.png" width=40% height=40%>
          <p align="center">
   <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20practice%20result%202.png" width=40% height=40%>
+  <p align="center">
+  <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20practice%20result%202%20ins1.png" width=40% height=40%>
+     <p align="center">
+   <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20practice%20result%202%20ins2.png" width=40% height=40%>
+        <p align="center">
+    <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20practice%20result%202%20ins3.png" width=40% height=40%>
   
 
    </detals>
