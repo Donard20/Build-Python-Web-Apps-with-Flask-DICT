@@ -35,6 +35,7 @@ for forms, install WTF
 <p>pip install Flask-WTF</p>
  
 ---
+
 # 🛠️ Problem and Solution
 
  <details>
@@ -89,6 +90,35 @@ Form Practice
    <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20practice%20result%202%20ins2.png" width=40% height=40%>
         <p align="center">
     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20practice%20result%202%20ins3.png" width=40% height=40%>
+  
+
+   </detals>
+  
+ </details>
+ 
+ </details>
+ 
+ 
+  <details>
+<summary>
+Forms Sign Up Exercise
+</summary>
+  <p align="center">
+  <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/ins_3.png" width=40% height=40%>
+
+  
+   ## 🚀 Solution
+
+  <details>
+  <summary>
+  Forms Sign Up Exercise
+  </summary>
+   <p align="center">
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20exercise%20result%201.png" width=60% height=60%>
+     <p align="center">
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20exercise%20result%202.png" width=60% height=60%>
+      <p align="center">
+   <a href="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/tree/main/Module%202%20-%20Templates%20and%20Forms/forms_exercise" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
   
 
    </detals>
