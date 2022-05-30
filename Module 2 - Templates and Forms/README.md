@@ -89,6 +89,15 @@ Templates
    - [x] Installing Flask
    - [x] Importing Flask class
    - [x] Building routes
+- [x] Templates and Forms
+   - [x] HTML Templates
+   - [x] Looping through data
+   - [x] Using conditional statements
+   - [x] Template Inheritance
+   - [x] Web forms
+   - [x] WTForms
+   - [x] Creating a basic sign-up page
+   - [x] Getting data from users
 
 
 
