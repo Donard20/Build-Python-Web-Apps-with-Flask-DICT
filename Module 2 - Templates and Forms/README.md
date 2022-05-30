@@ -23,6 +23,18 @@
  
 
 ---
+
+Before starting install flask in terminal
+<p> pip install flask </p>
+set the flask framework
+<p>set  FLASK_APP="file.py"</p>
+to run flask
+<p>flask run</p>
+
+for forms, install WTF
+<p>pip install Flask-WTF</p>
+ 
+---
 # 🛠️ Problem and Solution
 
  <details>
