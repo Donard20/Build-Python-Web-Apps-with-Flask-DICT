@@ -5,8 +5,8 @@
 <p align="center">
 <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/mod%202%20head.png" width=60% height=60%>
  
-<!-- <p align="center">
-<img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/head_2.png" width=80% height=80%> -->
+<p align="center">
+<img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/mod%202%20head%202.png" width=60% height=60%>
  
 ## 📖 Table Of Contents
 * 🔥 [Aim for this lesson](#aim)
@@ -52,12 +52,12 @@ Templates
  </details>
  
  
-<!--  <details>
+ <details>
 <summary>
- Data Visualization using Seaborn
+Form Practice
 </summary>
   <p align="center">
-  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/inst_4.png" width=40% height=40%>
+  <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/mod%202%20head%202.png" width=40% height=40%>
   
    ## 🚀 Solution
 
@@ -66,14 +66,18 @@ Templates
  Module 4 Coding Exercise Continuation Seaborn
   </summary>
    <p align="center">
-   <a href="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/2-Working%20with%20Subplots/Module%204%20Coding%20Exercise%20Continuation%20Seaborn.ipynb" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
+   <a href="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/tree/main/Module%202%20-%20Templates%20and%20Forms/forms_practice%20templates" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
+      <p align="center">
+  <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20practice%20result%201.png" width=40% height=40%>
+         <p align="center">
+  <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20practice%20result%202.png" width=40% height=40%>
   
 
    </detals>
   
  </details>
  
- </details> -->
+ </details>
 
 
   ---
