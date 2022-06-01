@@ -1,11 +1,11 @@
 from app import Author, db
 
-# frances = Author.query.filter_by(name='Frances Esteban').first()
+# donard = Author.query.filter_by(name='Donard Azura').first()
 #
-# frances.title = 'Turning Heads'
+# donard.title = 'Happy'
 # db.session.commit()
 
-donna = Author.query.get(3)
+donna = Author.query.get(5)
 
 donna.name = 'Danielle Reyes'
 db.session.commit()

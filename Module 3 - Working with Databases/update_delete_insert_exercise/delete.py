@@ -1,6 +1,6 @@
 from app import Author, db
 
-Author.query.filter_by(title='adasdf').delete()
+Author.query.filter_by(id=5).delete()
 db.session.commit()
 
 # in terminal
