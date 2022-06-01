@@ -51,7 +51,7 @@ Web Apps with SQL Alchemy
 
   <details>
   <summary>
-  Web Apps with SQL Alchemy Coding Exercise
+  Web Apps with SQL Alchemy Practice Code
   </summary>
    <p align="center">
    <a href="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/tree/main/Module%203%20-%20Working%20with%20Databases/app_1%20practice" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
