@@ -97,33 +97,35 @@ Web Apps with SQL Alchemy Exercise
  </details>
  
  
-<!--   <details>
+  <details>
 <summary>
-Forms Sign Up Exercise
+Update Insert Delete Exercise
 </summary>
   <p align="center">
-  <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/ins_3.png" width=40% height=40%>
+  <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/ins_5.png" width=40% height=40%>
 
   
    ## 🚀 Solution
 
   <details>
   <summary>
-  Forms Sign Up Exercise
+  Update Insert Delete Exercise
   </summary>
+         <p align="center">
+   <a href="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/tree/main/Module%203%20-%20Working%20with%20Databases/update_delete_insert_exercise" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
    <p align="center">
-     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20exercise%20result%201.png" width=60% height=60%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/mod%203%20ex%202%20result%201.png" width=20% height=20%>
      <p align="center">
-     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20exercise%20result%202.png" width=60% height=60%>
-      <p align="center">
-   <a href="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/tree/main/Module%202%20-%20Templates%20and%20Forms/forms_exercise" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/mod%203%20ex%202%20result%202.png" width=20% height=20%>
+      <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/mod%203%20ex%202%20result%203.png" width=20% height=20%>
+
   
 
    </detals>
   
  </details>
  
- </details> -->
+ </details>
 
 
   ---
@@ -137,6 +139,11 @@ Forms Sign Up Exercise
    - [x] Flash
    - [x] url_for_function
    - [x] redirect
+- [x] Inserting, Deleting, and Updating
+   - [x] Insert
+   - [x] Delete
+   - [x] Update
+
 
 
 
