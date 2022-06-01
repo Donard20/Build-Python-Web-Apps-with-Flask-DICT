@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Employees</title>
+</head>
+<body>
+    <h3><a href="{{url_for('list_employees')}}">Manage Employees</a></h3>
+    <hr />
+    {% for message in get_flashed_messages() %}
+    {{ message }}
+    {% endfor %}
+
+    <h3>Employee List</h3>
+    <table border="2">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Position</th>
+                <th>Division</th>
+            </tr>
+        </thead>
+
+        <tbody>
+        {% if employees|length < 1%}
+        <h4>No employees please add some below</h4>
+        {% else %}
+            {% for employee in employees %}
+            <tr>
+                <td>{{ employee.id }}</td>
+                <td>{{ employee.name }}</td>
+                <td>{{ employee.position }}</td>
+                <td>{{ employee.division }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    {% endif %}
+    <br><br>
+    <a href="{{url_for('add_employees')}}">Add New Employees</a>
+</body>
+</html>
