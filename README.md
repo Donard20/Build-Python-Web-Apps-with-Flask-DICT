@@ -95,7 +95,8 @@ Python Training sponsored by DICT-Philippines.
   Build Python Web Apps with Flask
   </summary>
   <p align="center">
-<!--   <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/summary/1.png" width=50% height=50%> -->
+  <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/summary/1.png" width=50% height=50%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/summary/2.png" width=50% height=50%>
 
 
   </details>
