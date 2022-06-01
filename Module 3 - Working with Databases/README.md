@@ -68,38 +68,33 @@ Web Apps with SQL Alchemy
  </details>
  
  
-<!--  <details>
+ <details>
 <summary>
-Form Practice
+Web Apps with SQL Alchemy Exercise
 </summary>
   <p align="center">
-  <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/mod%202%20head%202.png" width=40% height=40%>
+  <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/ins_4.png" width=40% height=40%>
   
    ## 🚀 Solution
 
   <details>
   <summary>
- Module 4 Coding Exercise Continuation Seaborn
+ Employee Web App exercise
   </summary>
    <p align="center">
-   <a href="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/tree/main/Module%202%20-%20Templates%20and%20Forms/forms_practice%20templates" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
+   <a href="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/tree/main/Module%203%20-%20Working%20with%20Databases/mod%203%20exercise" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
       <p align="center">
-  <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20practice%20result%201.png" width=40% height=40%>
+  <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/sql%20exercise%20result%203.png" width=40% height=40%>
          <p align="center">
-  <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20practice%20result%202.png" width=40% height=40%>
+  <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/sql%20exercise%20result%204.png" width=40% height=40%>
   <p align="center">
-  <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20practice%20result%202%20ins1.png" width=40% height=40%>
-     <p align="center">
-   <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20practice%20result%202%20ins2.png" width=40% height=40%>
-        <p align="center">
-    <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/forms%20practice%20result%202%20ins3.png" width=40% height=40%>
-  
+  <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/sql%20exercise%20result%205.png" width=40% height=40%>
 
    </detals>
   
  </details>
  
- </details> -->
+ </details>
  
  
 <!--   <details>
