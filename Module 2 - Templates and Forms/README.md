@@ -76,7 +76,7 @@ Form Practice
 
   <details>
   <summary>
- Module 4 Coding Exercise Continuation Seaborn
+ Form Practice Details
   </summary>
    <p align="center">
    <a href="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/tree/main/Module%202%20-%20Templates%20and%20Forms/forms_practice%20templates" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
