@@ -42,7 +42,7 @@ for forms, install WTF
 
  <details>
 <summary>
-Templates
+Web Apps with SQL Alchemy
 </summary>
   <p align="center">
   <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/ins_3.png" width=40% height=40%>
@@ -51,12 +51,14 @@ Templates
 
   <details>
   <summary>
-  Module 1 App.py Exercise
+  Web Apps with SQL Alchemy Coding Exercise
   </summary>
    <p align="center">
    <a href="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/tree/main/Module%203%20-%20Working%20with%20Databases/app_1%20practice" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
    <p align="center">
-     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/result%20exercise%201.png" width=80% height=80%>
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/sql%20exercise%20result%201.png" width=20% height=20%>
+      <p align="center">
+     <img src="https://github.com/Donard20/Build-Python-Web-Apps-with-Flask-DICT/blob/main/IMG/sql%20exercise%20result%202.png" width=20% height=20%>
   
 
    </detals>
@@ -66,7 +68,7 @@ Templates
  </details>
  
  
- <details>
+<!--  <details>
 <summary>
 Form Practice
 </summary>
@@ -97,10 +99,10 @@ Form Practice
   
  </details>
  
- </details>
+ </details> -->
  
  
-  <details>
+<!--   <details>
 <summary>
 Forms Sign Up Exercise
 </summary>
@@ -126,7 +128,7 @@ Forms Sign Up Exercise
   
  </details>
  
- </details>
+ </details> -->
 
 
   ---
@@ -134,23 +136,14 @@ Forms Sign Up Exercise
   
   ## 🔥 Learned:
 
-- [x] Introduction in Web App
-   - [x] Front and Back-ends
-   - [x] Databases
-   - [x] APIs
-   - [x] Web Frameworks 
-   - [x] Installing Flask
-   - [x] Importing Flask class
-   - [x] Building routes
-- [x] Templates and Forms
-   - [x] HTML Templates
-   - [x] Looping through data
-   - [x] Using conditional statements
-   - [x] Template Inheritance
-   - [x] Web forms
-   - [x] WTForms
-   - [x] Creating a basic sign-up page
-   - [x] Getting data from users
+- [x] Web Apps with SQL Alchemy
+   - [x] SQL
+   - [x] SQLALchemy
+   - [x] Flash
+   - [x] url_for_function
+   - [x] redirect
+
+
 
 
 
