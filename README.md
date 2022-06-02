@@ -118,8 +118,8 @@ Python Training sponsored by DICT-Philippines.
   <summary>
   Build Python Web Apps with Flask
   </summary>
-<!--    <p align="center">
-   <a href="https://courses.buri.io/view/user/certificate/122b4e48-5493-4e1d-bf94-5b7c86b9537c/pdf" target="_blank"><img src="https://img.shields.io/badge/View-My%20Certificate-purple?style=for-the-badge&logo=github"></a> -->
+   <p align="center">
+   <a href="https://courses.buri.io/view/user/certificate/cc81e414-7392-4a4d-bb0d-265153a984f0/pdf" target="_blank"><img src="https://img.shields.io/badge/View-My%20Certificate-purple?style=for-the-badge&logo=github"></a>
 
 
  </details>
